@@ -1,13 +1,17 @@
 
+About
+=====
 This is the port for the Particle Photon of the port by Solar Designer
 http://openwall.info/wiki/people/solar/software/public-domain-source-code/md5
 
 According to the website "This code is used in Openwall's popa3d and blists, as well as in PHP 5.3.0+, ClamAV, Dovecot, Eggdrop, FreeType, masqmail, Staden Package io_lib, and more."
 
+This was imported from the above site to allow HTTP Digest Authentication in conjunction with the HttpClient application.
 
 
-How to Use md5
-==============
+
+Example Usage
+=============
 
     #include "md5.h"
     #include "application.h"
