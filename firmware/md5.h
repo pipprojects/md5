@@ -23,6 +23,7 @@
  * See md5.c for more information.
  */
 
+#ifndef _MD5_H
 #define _MD5_H
 
 #include "application.h"
