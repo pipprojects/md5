@@ -1,5 +1,5 @@
 
-This is the port by Solar Designer
+This is the port for the Particle Photon of the port by Solar Designer
 http://openwall.info/wiki/people/solar/software/public-domain-source-code/md5
 
 According to the website "This code is used in Openwall's popa3d and blists, as well as in PHP 5.3.0+, ClamAV, Dovecot, Eggdrop, FreeType, masqmail, Staden Package io_lib, and more."
