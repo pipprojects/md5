@@ -1,0 +1,7 @@
+{
+    "name": "md5",
+    "version": "0.0.1",
+    "author": "Rob Dancer <robd@pipcc.com>",
+    "license": "See LICENSE",
+    "description": "md5 library"
+}
