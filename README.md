@@ -40,7 +40,8 @@ This returns the md5 hex string for "grape"
 
 md5 of grape b781cbb29054db12f88f08c6e161c199
 
-See examples
+See example directory
+test_md5.ino
 
 
 This can be checked with python
