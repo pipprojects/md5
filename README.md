@@ -13,6 +13,10 @@ This was imported from the above site to allow HTTP Digest Authentication in con
 Example Usage
 =============
 
+This implementation of md5 needs some extra code to return a hex string.
+Another port of md5 is here http://www.zedwood.com/article/cpp-md5-function which has some useful extra abilities such as this.
+
+
     #include "md5.h"
     #include "application.h"
     
